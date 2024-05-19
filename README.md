@@ -10,14 +10,19 @@ Q1. Create a file “people.txt” with the following data:
 | 34  | child     | -7     | married | 3             |
 
 i) Read the data from the file “people.txt”.
+
 ii) Create a ruleset E that contain rules to check for the following conditions:
+
 1. The age should be in the range 0-150.
 2. The age should be greater than yearsmarried.
 3. The status should be married or single or widowed.
 4. If age is less than 18 the agegroup should be child, if age is between 18 and 65 the agegroup
 should be adult, if age is more than 65 the agegroup should be elderly.
+
 iii) Check whether ruleset E is violated by the data in the file people.txt.
+
 iv) Summarize the results obtained in part (iii)
+
 v) Visualize the results obtained in part (iii)
 Q2. Perform the following preprocessing tasks on the dirty_iris datasetii.
 i) Calculate the number and percentage of observations that are complete.
